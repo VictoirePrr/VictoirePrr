@@ -17,12 +17,15 @@ Recreating `printf` from scratch! It supports various conversions (`%d`, `%s`, `
 Using **MiniLibX**, I created a simple top-down game with a cute character navigating through a maze. Pixel art, movement mechanics, and game logic—this was such a fun project!  
 
 ### 🌀 **Push_swap** – Sorting with Style  
-Sorting numbers with only two stacks and a limited set of operations. 🚀 I implemented various sorting algorithms and optimized for **efficiency and minimal moves**!  
+Sorting numbers with only two stacks and a limited set of operations. 🚀 I implemented various sorting algorithms and optimized for **efficiency and minimal moves**!   
 
-## 🔧 Currently Working On  
+### 🔗 Pipex – Mastering Inter-Process Communication
+I learned how processes talk to each other using pipes! This project simulates shell behavior by executing chained commands with redirections. 🔄💡
 
-### 🔗 **Pipex** – Mastering Inter-Process Communication  
-I’m currently learning how processes talk to each other using **pipes**! This project simulates shell behavior by executing chained commands with redirections. 🔄💡  
+## 🔧 Currently Working On
+
+### 🐚 Minishell – Building My Own Shell
+I'm currently working on Minishell with my teammate! 🖥️ We're implementing a simplified version of Bash, handling commands, redirections, pipes, environment variables, and much more. This project is an exciting deep dive into parsing, execution, and system calls!
 
 ## 📬 Contact Me!  
 Got questions, feedback, or just want to chat about code? Feel free to reach out!  
